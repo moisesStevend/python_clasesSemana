@@ -8,6 +8,7 @@ Created on Thu May  3 14:28:38 2018
 __version__ = "Produccion"
 
 #Buscar un valor
+#class Bsuqueda():
 def busca_valor(ll, vv):#lista a recorrer, valor de bus
     try:
         if len(ll)==0:#es vacio

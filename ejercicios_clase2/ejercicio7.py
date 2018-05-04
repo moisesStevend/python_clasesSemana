@@ -4,6 +4,7 @@
 Created on Thu May  3 17:01:14 2018
 
 @author: meza
+
 """
 v=[4,5,6,7,4,2]
 #hallar los numeros pares
